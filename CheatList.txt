@@ -1,0 +1,138 @@
+PCAddGoldBonusScore()
+PCBurnEnemies([time]) *
+PCBurnObjects([time]) *
+PCCheats() / White + Y
+PCCloseSlabs() *
+PCConfuseEnemies() / DPadRight + X <toggle>
+PCConsoleMessages() / DPadDown + Y <toggle>
+PCCustomAmmo(amount) *
+PCCustomAmmoFactor(amount) *
+PCCustomAmmoScore(amount) *
+PCCustomArmor(amount) *
+PCCustomArmorsScore(amount) *
+PCCustomDamageFactor(amount) *
+PCCustomDemonFactor(amount) *
+PCCustomGamePlayTimeScore(amount) *
+PCCustomGoldBonusScore(amount) *
+PCCustomGoldScore(amount) *
+PCCustomHealth(amount) *
+PCCustomHealthFactor(amount) *
+PCCustomHolyItemsScore(amount) *
+PCCustomJumpFactor(amount) *
+PCCustomMonstersScore(amount) *
+PCCustomObjectsScore(amount) *
+PCCustomPlayerMoney(amount) *
+PCCustomReloadSpeedFactor(amount) *
+PCCustomSecretsScore(amount) *
+PCCustomSoulDistanceFactor(amount) *
+PCCustomSoulFactor(amount) *
+PCCustomSoulTimeFactor(amount) *
+PCCustomSoulsScore(amount) *
+PCCustomSpeedFactor(amount) *
+PCCustomTreasureFactor(amount) *
+PCDemon([time]) / DPadDown + B <toggle>
+PCDemonGun() *
+PCDifficultyDaydream() / Y + DPadLeft
+PCDifficultyInsomnia() / B + DPadLeft
+PCDifficultyNightmare() / A + DPadLeft
+PCDifficultyTrauma() / X + DPadLeft
+PCDisableCheats() / Y + White
+PCDisableFluorescentHallucinogen() / B + White
+PCDoubleAmmoFactor()
+PCDoubleDamageFactor()
+PCDoubleDemonFactor() / B + DPadDown
+PCDoubleHealth()
+PCDoubleHealthFactor()
+PCDoubleJumpFactor() *
+PCDoubleReloadSpeedFactor() / A + DPadDown
+PCDoubleSoulDistanceFactor()
+PCDoubleSoulFactor()
+PCDoubleSoulTimeFactor() / X + DPadDown
+PCDoubleSpeedFactor() *
+PCDoubleTreasureFactor()
+PCExplodeEnemies() *
+PCExplodeObjects() *
+PCFinishLevel() *
+PCFluorescentHallucinogen() / White + B
+PCFlyMode() <toggle> *
+PCFreezeEnemies([time]) *
+PCGibBodies() / DPadDown + A <toggle>
+PCGod() / DPadDown + X <toggle>
+PCKeepBodies() / DPadLeft + Y <toggle>
+PCKeepDecals() <toggle> *
+PCLockCards() / X + White
+PCLockLevels() / A + White
+PCLockTrauma()
+PCLockWeapons() / A + DPadRight
+PCMediumArmor()
+PCMegaAmmo() / White + DPadRight
+PCMegaArmor() / White + DPadDown
+PCMegaDamageFactor() / White + DPadLeft
+PCMegaDemonFactor() / DPadUp + Y
+PCMegaHealth() / DPadUp + B
+PCMegaPlayerMoney() / White + DPadUp
+PCMegaReloadSpeedFactor() / DPadUp + A
+PCMegaSoulDistanceFactor() / DPadUp + X
+PCMegaSoulTimeFactor() / DPadRight + Y
+PCNormalAmmoFactor()
+PCNormalDamageFactor() / DPadLeft + White
+PCNormalDemonFactor() / Y + DPadUp
+PCNormalHealth() / B + DPadUp
+PCNormalHealthFactor()
+PCNormalJumpFactor() *
+PCNormalReloadSpeedFactor() / A + DPadUp
+PCNormalSoulDistanceFactor()
+PCNormalSoulFactor()
+PCNormalSoulTimeFactor() / Y + DPadRight
+PCNormalSpeedFactor() *
+PCNormalTreasureFactor()
+PCOpenSlabs() *
+PCRebirth()
+PCRegenerateAmmo()
+PCRegenerateArmor() <toggle>
+PCRegenerateHealth() <toggle>
+PCResetAmmo() / DPadRight + White
+PCResetAmmoFactor()
+PCResetAmmoScore()
+PCResetArmor() / DPadDown + White
+PCResetArmorsScore()
+PCResetDamageFactor()
+PCResetGamePlayTimeScore() / Y + DPadDown
+PCResetGoldBonusScore()
+PCResetGoldScore()
+PCResetHealth()
+PCResetHealthFactor()
+PCResetHolyItemsScore()
+PCResetMonstersScore()
+PCResetObjectsScore()
+PCResetPlayerMoney() / DPadUp + White
+PCResetScore() / B + DPadRight
+PCResetSecretsScore()
+PCResetSoulDistanceFactor() / X + DPadUp
+PCResetSoulFactor()
+PCResetSoulTimeFactor()
+PCResetSoulsScore()
+PCResetTreasureFactor()
+PCRestoreArmor()
+PCRestoreHealth()
+PCSlowDownTime([amount], [time]) <toggle> *
+PCStealHealth() <toggle>
+PCStrongArmor()
+PCTotalAmmoScore()
+PCTotalArmorsScore()
+PCTotalGoldScore()
+PCTotalHolyItemsScore()
+PCTotalMonstersScore()
+PCTotalObjectsScore()
+PCTotalScore() / DPadRight + B
+PCTotalSecretsScore()
+PCTotalSoulsScore()
+PCUnlimitedAmmo() / DPadLeft + B <toggle>
+PCUnlimitedCards() / DPadLeft + A <toggle>
+PCUnlockCards() / White + X
+PCUnlockLevels() / White + A
+PCUnlockTrauma()
+PCUnlockWeapons() / DPadRight + A
+PCWeakArmor()
+PCWeakEnemies() / DPadLeft + X <toggle>
+PCWeaponModifier() / X + DPadRight <toggle>
