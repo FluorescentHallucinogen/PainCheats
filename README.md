@@ -38,7 +38,7 @@ Unfortunately, the installation instructions and the cheats descriptions are not
 
 **Download link:** https://goo.gl/VIVTY2
 
-**Size:** 2 954 624 024 bytes
+**Size:** 2 954 625 024 bytes
 
 **SHA-1:** 14F7F64DC8ECF519977D21BF012B5667C5E51A37
 
