@@ -28,4 +28,36 @@ Most of them have been modified and/or bug fixed.
 
 ## How to install
 
-TBD
+1. Go to the game folder. You'll see `Bin` and `Data` folders inside.
+
+2. Go to the `Data` folder and create an empty `LScripts` folder inside.
+
+:warning: Without this step the next step will not work.
+
+3. Unpack `/Data/LScripts.pak` archive into the `/Data/LScripts` folder. To do this, go to the `Bin` folder and run the main executable file with the following parameters.
+
+:warning: The name of the main executable file may be different (e.g. `Overdose.exe`).
+
+```sh
+PainKiller.exe -script FS.ExtractPack('../Data/LScripts.pak','../Data/LScripts')
+```
+
+4. Copy `AdvancedCheats.lua` file into the `/Data/LScripts` folder.
+
+5. Open `/Data/LScripts/Loader.lua` file in text editor and add the following line to the end of file:
+
+```lua
+DoFile(path.."AdvancedCheats.lua")
+```
+
+6. Optionally, pack `/Data/LScripts` folder back to `/Data/LScripts.pak` archive:
+
+```sh
+PainKiller.exe -script FS.CreatePack('../Data/LScripts.pak','../Data/LScripts')
+```
+
+:warning: For “Xbox Original” video game console (“PainKiller: Hell wars” video game) you should disable file compression:
+
+```sh
+PainKiller.exe -script FS.CreatePack('../Data/LScripts.pak','../Data/LScripts',false)
+```
