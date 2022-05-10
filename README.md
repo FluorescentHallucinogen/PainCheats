@@ -42,7 +42,7 @@ Most of them have been modified and/or bug fixed.
 PainKiller.exe -script FS.ExtractPack('../Data/LScripts.pak','../Data/LScripts')
 ```
 
-4. Copy `AdvancedCheats.lua` file into the `/Data/LScripts` folder.
+4. Copy [`AdvancedCheats.lua`](AdvancedCheats.lua) file into the `/Data/LScripts` folder.
 
 5. Open `/Data/LScripts/Loader.lua` file in text editor and add the following line to the end of file:
 
