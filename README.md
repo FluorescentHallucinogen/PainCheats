@@ -2,9 +2,9 @@
 
 ## Description
 
-“PainKiller Advanced Cheats” (shortly “PainCheats”, or “PKCheats”) is a cheat script for one of the greatest video game series of the recent years, “PainKiller”.
+“PainKiller Advanced Cheats” (shortly “PainCheats”, or “PKCheats”) is a cheat script for “PainKiller” video game series.
 
-The latest stable version of “PainCheats” contains 138 console cheat commands for the single-player game mode:
+The latest stable version of “PainCheats” contains 138 console cheat commands for the single-player game mode (see the full list in the [`CheatList.txt`](CheatList.txt) file):
 
 * all of the original cheats;
 * cheats disabled in the retail version of the game;
@@ -24,7 +24,7 @@ Most of them have been modified and/or bug fixed.
 
 “PainCheats” is compatible with other cheat scripts (e.g., “Powermad”).
 
-“PainCheats” can be ported to “NecroVisioN” video game by “The Farm 51” that uses “NecroEngine” video game engine, based on “PainEngine”. The good project name might be “NecroVisioN Advanced Cheats” (shortly “NecroCheats”, or “NVNCheats”).
+“PainCheats” can be ported to “NecroVisioN” video game by “The Farm 51” that uses “NecroEngine” video game engine, based on “PainEngine”. Feel free to fork this project to port it for “NecroVisioN”. The good project name might be “NecroVisioN Advanced Cheats” (shortly “NecroCheats”, or “NVNCheats”). ;)
 
 ## How to install
 
