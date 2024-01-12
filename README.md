@@ -4,7 +4,7 @@
 
 “PainKiller Advanced Cheats” (shortly “PainCheats”, or “PKCheats”) is a cheat script for “PainKiller” video game series.
 
-The latest stable version of “PainCheats” contains 138 console cheat commands for the single-player game mode (see the full list in the [`CheatList.txt`](CheatList.txt) file):
+The latest version of “PainCheats” contains 138 console cheat commands for the single-player game mode (see the full list in the [`CheatList.txt`](CheatList.txt) file):
 
 * all of the original cheats;
 * cheats disabled in the retail version of the game;
