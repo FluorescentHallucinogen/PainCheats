@@ -61,3 +61,7 @@ PainKiller.exe -script FS.CreatePack('../Data/LScripts.pak','../Data/LScripts')
 ```sh
 PainKiller.exe -script FS.CreatePack('../Data/LScripts.pak','../Data/LScripts',false)
 ```
+
+## How to use
+
+(To be described later.)
