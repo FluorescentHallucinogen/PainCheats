@@ -62,6 +62,8 @@ PainKiller.exe -script FS.CreatePack('../Data/LScripts.pak','../Data/LScripts')
 PainKiller.exe -script FS.CreatePack('../Data/LScripts.pak','../Data/LScripts',false)
 ```
 
-## How to use
+## See also
 
-(To be described later.)
+[PainKiller SBS (Side-by-Side) Stereo Mod](https://github.com/FluorescentHallucinogen/painkiller-sbs-stereo-mod)
+
+[PainKiller VR Mod](https://github.com/FluorescentHallucinogen/painkiller-vr-mod)
